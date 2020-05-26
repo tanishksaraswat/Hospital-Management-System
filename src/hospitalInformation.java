@@ -47,7 +47,7 @@ public class hospitalInformation extends javax.swing.JFrame {
 
         jTextArea1.setColumns(20);
         jTextArea1.setRows(5);
-        jTextArea1.setText("Made By:\n\n\tTanishk Saraswat (189402113)\n\tLay Patel (189303071)");
+        jTextArea1.setText("Made By:\n\n\tTanishk Saraswat ");
         jScrollPane1.setViewportView(jTextArea1);
 
         getContentPane().add(jScrollPane1, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 176, 650, 182));
